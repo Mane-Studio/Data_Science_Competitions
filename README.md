@@ -1,3 +1,5 @@
-# Kaggle Projects
+# Data Science Competitions
 
-Kaggle에서 진행하는 각종 프로젝트를 진행하는 Repository입니다.
+참여했거나 참여 중인 Data Science 경진대회 내용을 정리한 Repository입니다.
+- Kaggle(https://www.kaggle.com/)
+- DACON(https://www.dacon.io/)
